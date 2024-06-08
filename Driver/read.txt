@@ -1,0 +1,1 @@
+Place the Mapper and Oykyo files in the same folder as the loader to load the driver, then run the loader as administrator or as you wish.
